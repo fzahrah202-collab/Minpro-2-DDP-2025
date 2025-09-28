@@ -85,6 +85,7 @@ ________________________________________________________________________________
 
 FLOWCHART
 
+<img width="1469" height="1450" alt="flowchart minpro2 revisi drawio" src="https://github.com/user-attachments/assets/a262d456-3b36-419c-b2d5-e8ab32722550" />
 
 
 
