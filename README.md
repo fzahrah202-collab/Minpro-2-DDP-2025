@@ -63,8 +63,6 @@ input nama hewan yang ingin dihapus -> hapus dari list.
 Menghentikan menu admin & keluar dari program.
 
 
-(Menu Admin looping sampai pengguna memilih keluar)
-
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 👥 Menu User
@@ -77,9 +75,6 @@ Input nama, jenis, lama penitipan -> data disimpan ke list.
 
 3. Keluar
 Menghentikan menu user & keluar dari program.
-
-
-(Menu User looping sampai pengguna memilih keluar)
 
 
 _____________________________________________________________________________________________________________________________________________________________________________________________________________________
@@ -123,6 +118,69 @@ kondisi tambah hewan ketika input benar (lama penitipan berupa angka)
 
 kondisi tambah hewan ketika input salah ( lama penitipan bukan angka )
 <img width="629" height="632" alt="Screenshot 2025-09-28 184017" src="https://github.com/user-attachments/assets/a6022833-e9a8-4e6e-9147-423a778910d4" />
+
+kondisi edit hewan ketika list kosong
+<img width="442" height="426" alt="Screenshot 2025-09-28 184427" src="https://github.com/user-attachments/assets/2b27337a-3a84-484a-9c3f-31b2b1b5ce91" />
+
+kondisi edit hewan ketika data hewan ada
+<img width="592" height="795" alt="Screenshot 2025-09-28 184839" src="https://github.com/user-attachments/assets/405d57fc-4546-4420-bc90-42e831ac156b" />
+
+kondisi edit hewan ketika nama hewan yang ingin diganti tidak ada
+<img width="635" height="576" alt="Screenshot 2025-09-28 190714" src="https://github.com/user-attachments/assets/d4e4aefe-72e4-49a4-b90a-62cd4619a82b" />
+
+kondisi edit hewan ketika input lama penitipan bukan angka
+<img width="784" height="815" alt="Screenshot 2025-09-28 190953" src="https://github.com/user-attachments/assets/c387acdf-0394-4308-8fbc-286707e2d057" />
+
+kondisi ketika ingin menghapus data hewan tapi list kosong
+<img width="534" height="606" alt="Screenshot 2025-09-28 191058" src="https://github.com/user-attachments/assets/a9357849-be43-4abc-9a59-27ab3961564e" />
+
+kondisi ketika ingin menghapus data hewan dan data hewannya ada
+<img width="788" height="784" alt="Screenshot 2025-09-28 191237" src="https://github.com/user-attachments/assets/c61a94a4-5279-4149-93e1-135b9bd60538" />
+
+kondisi ketika ingin menghapus data hewan tapi nama hewan yang ingin dihapus tidak ada dalam daftar
+<img width="609" height="746" alt="Screenshot 2025-09-28 191317" src="https://github.com/user-attachments/assets/38a9a911-48eb-48f6-8e73-8ea07310d62a" />
+
+kondisi keluar dari menu admin
+<img width="587" height="213" alt="Screenshot 2025-09-28 191350" src="https://github.com/user-attachments/assets/4baeb814-7e53-4947-90c7-824a50e24046" />
+
+kondisi ketika menginput menu admin selain 1-5
+<img width="514" height="577" alt="Screenshot 2025-09-28 191432" src="https://github.com/user-attachments/assets/b7d15a0c-e319-4103-b847-bb8f861d38a9" />
+
+kondisi ketika input menu bukan berupa angka
+<img width="398" height="397" alt="Screenshot 2025-09-28 191510" src="https://github.com/user-attachments/assets/821fe856-f83a-4305-96a5-fbb8c619913c" />
+
+kondisi lihat hewan di menu user 
+<img width="460" height="543" alt="Screenshot 2025-09-28 191629" src="https://github.com/user-attachments/assets/da375880-02a6-4be1-bdd0-93b4c4c5b1b9" />
+<img width="561" height="728" alt="Screenshot 2025-09-28 191842" src="https://github.com/user-attachments/assets/c2a70d7a-2539-4aaa-944c-de322ff7d0b6" />
+
+kondisi tambah hewan di menu user
+<img width="561" height="728" alt="Screenshot 2025-09-28 191842" src="https://github.com/user-attachments/assets/c90cc18c-2597-4150-a9d2-8eb35d85b96f" />
+
+konisi keluar dari menu user
+<img width="644" height="192" alt="Screenshot 2025-09-28 192041" src="https://github.com/user-attachments/assets/c0a465f2-6673-464e-8475-6e39da019c82" />
+
+kondisi input  selain 1-3 di menu user 
+<img width="450" height="413" alt="Screenshot 2025-09-28 191948" src="https://github.com/user-attachments/assets/7f315598-b9ab-4c2c-9320-b6743cd60e92" />
+
+kondisi input bukan angka di menu user
+<img width="318" height="169" alt="Screenshot 2025-09-28 192027" src="https://github.com/user-attachments/assets/8f55043c-1fa2-43f1-bca8-ad669dba7667" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
